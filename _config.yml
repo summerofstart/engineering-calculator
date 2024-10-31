@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - faraday-retry
+
+# 必要に応じてその他の設定を追加
